@@ -7,7 +7,7 @@ const About = () => {
             <div className="header">
                 <h1>My Skills</h1>
             </div>
-            <div class="row">
+            {/* <div class="row">
                 <div class="col">
                     1 of 3
                 </div>
@@ -17,10 +17,10 @@ const About = () => {
                 <div class="col">
                     3 of 3
                 </div>
-            </div>
+            </div> */}
         </div>
         </>
     )
 }
 
-export default About
+export default About;
