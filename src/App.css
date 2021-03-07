@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.link {
+  color: black;
+}
+
+.homeContainer {
+  padding-top: 10.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  color: black;
+  /* background-image: url("../assets/img/homepage.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover; */
+}
+
+.home-heading {
+  font-size: 2.75rem;
+  font-weight: 700;
+  line-height: 3.25rem;
+  margin-bottom: 2rem;
+}
+
+.home-subheading {
+  font-size: 2.00rem;
+  font-weight: 700;
+  line-height: 3.25rem;
+  margin-bottom: 2rem;
+}
