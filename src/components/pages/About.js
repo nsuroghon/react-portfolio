@@ -1,12 +1,11 @@
 import React from 'react'
+import Navigation from '../Navigation'
 
 const About = () => {
     return (
         <>
         <div>
-            <div className="header">
-                <h1>My Skills</h1>
-            </div>
+            <Navigation />
             {/* <div class="row">
                 <div class="col">
                     1 of 3
